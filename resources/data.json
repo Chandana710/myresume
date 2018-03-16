@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective":"all are true"
+	},
+	"education":[
+		{
+	"degree":"B.tech(computer science of engeering)",
+	"college":"KLM engeering college",
+	"data":["2014-18","70%"]		
+},
+{
+	"degree":"state board of tecnical education(inter)",
+	"college":"sri chithanya jr college",
+	"data":["2011-2012","80%"]
+},
+{
+	"degree":"SSC",
+	"college":"keshavareddy school",
+	"data":["2010","8.0"]
+},
+]
+}
